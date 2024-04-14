@@ -525,8 +525,13 @@ p{
 
 /* skills media queries starts*/
 @media screen and (max-width: 600px) {
-  .skills .container {
-    padding: 1rem;
+  .skills .container .row {
+    grid-template-columns: repeat(2, 1fr); /* Display two containers in a row */
+  }
+}
+@media screen and (max-width: 360px) {
+  .skills .container .row {
+    grid-template-columns: 1fr; /* Display one container in a row */
   }
 }
 
