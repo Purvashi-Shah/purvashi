@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Resume Screener",
+      "desc": "It is a software tool tasked with reviewing and filtering job applications to identify best candidates.",
+      "image": "https://i.ibb.co/bmfj0RS/tcet-linux.png",
+      "links": {
+        "view": "https://rs.tcetmumbai.in/",
+        "code": "https://github.com/tcet-opensource/resume-screener"
+      }
+    },
+    {
+      "name": "TCET Linux",
+      "desc": "An educational or organizational initiative focused on Linux operating system training, implementation, or development",
+      "image": "https://i.ibb.co/ZSCDMfw/resume-screener.png",
+      "links": {
+        "view": "https://linux.tcetmumbai.in/",
+        "code": "https://github.com/tcet-opensource/tcet-linux-website"
+      }
+    },
+    {
+      "name": "Password Generator",
+      "desc": "A tool designed to create strong, random passwords with different characyer options for enhanced security.",
+      "image": "https://i.ibb.co/GcJYTXy/password.png",
+      "links": {
+        "view": "https://purvashipasswordgen.netlify.app/",
+        "code": "https://github.com/Purvashi-Shah/Password-generator"
+      }
+    },
+    {
+      "name": "E-commerce website",
+      "desc": "An online platform facilitating buying & selling, including features like product listings, shopping carts & secure payment processing.",
+      "image": "https://i.ibb.co/NNjjgyG/ecommerce.png",
+      "links": {
+        "view": "https://www.figma.com/file/jHMFNI68OcJkFGynDq45PW/Purvashi?type=design&node-id=0-1&mode=design&t=5zpo9Lceb9lnDhdc-0",
+        "code": "https://www.figma.com/file/jHMFNI68OcJkFGynDq45PW/Purvashi?type=design&node-id=0-1&mode=design&t=5zpo9Lceb9lnDhdc-0"
+      }
+    },
+    {
+      "name": "Wattpad UX Research (Ongoing)",
+      "desc": "Investigation and analysis of user experience trends and behaviors within the Wattpad platform.",
+      "image": "https://i.ibb.co/vYpMqWW/wattpad.png",
+      "links": {
+        "view": "https://www.figma.com/file/qdBHNIU9af9VpNeX4dTe9b/Wattpad?type=design&node-id=0%3A1&mode=design&t=otsVoc761MJ5E7UR-1",
+        "code": "https://medium.com/@purvashi-shah/ux-research-wattpad-is-good-it-can-be-better-460312159b73"
+      }
+    }
+  ]
